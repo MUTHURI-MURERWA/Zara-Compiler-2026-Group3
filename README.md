@@ -1,12 +1,14 @@
 # Zara-Compiler-2026-Group3
-Zara Programming Language Compiler implementation for CCS 3207 Compiler Construction – 2026.
-MEMBER 1 
+
+Zara Programming Language Compiler implementation for CCS 3207 Compiler Construction – 2026.</br>
+
+1. **MEMBER**: 
        DENIS MUTHURI                   C026-01-0770/2024
-MEMBER 2
+2. **MEMBER**: 
        COLLINS MUGENDI                 C026-01-2574/2024
-MEMBER 3
+3. **MEMBER**:
        HOPECALVIN MUTHARIMI            C026-01-0769/2024
-MEMBER 4
+4. **MEMBER**: 
        DARLY CHACHA
-MEMBER 5
-       JOAKIM KIUGI
+5. **MEMBER**:
+        JOAKIM KIUGI
