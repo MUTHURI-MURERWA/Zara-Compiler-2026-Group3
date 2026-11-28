@@ -49,3 +49,16 @@ result = table.retrieve("marks")
 print("\nTEST 4: INTERGER ARRAY")
 print(result)
 
+#TEST NUMBER 5: INTEGER STACK
+table.add(
+      "numbers",
+      "Stack",
+      [10, 20, 30],
+      element_type="Integer"
+)
+
+result = table.retrieve("numbers")
+
+print("\nFIFTH TEST: INTEGER STACK")
+print(result)
+
