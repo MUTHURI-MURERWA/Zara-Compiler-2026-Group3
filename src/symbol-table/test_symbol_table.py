@@ -34,3 +34,18 @@ result =  table.retrieve("studentName")
 
 print("\nTHIRD TEST: STRING")
 print(result)
+
+
+# TESTING INTERGER ARRAY
+table.add(
+     "marks",
+     "Array",
+     [70, 85, 90, 65],
+     element_type="Integer"
+)
+
+result = table.retrieve("marks")
+
+print("\nTEST 4: INTERGER ARRAY")
+print(result)
+
